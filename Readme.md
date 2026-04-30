@@ -14,6 +14,7 @@ This specific module has the following goals:
 -Wireless data transfer
 
 |Pinout Diagram|
+|--------------|
 |Device Name|Device Pin|ESP32-S3-Super-Mini Pin|
 |-----------|---------|------------------------|
 |Dallas 18B20|DQ|Pin 4|
