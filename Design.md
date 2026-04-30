@@ -16,6 +16,8 @@ This sensor will be in the prototype 1 version of this hardware.
 - Only requires 2 pins - not important in this case, but if a unified sensor version is made in the future, this is a useful feature
 - Supported out of the box by MicroPython using onewire and ds18x20 libraries
 
+Will be connected on pin 4 on the ESP32-S3
+
 Microcontroller selection:
 ESP-32-S3 is my initial choice for this project:
 - Newer chip and has nice modern features like deep sleep and built-in wireless

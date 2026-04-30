@@ -12,3 +12,9 @@ This specific module has the following goals:
 -RTC to timestamp readings
 -Data storage to cover one full battery charge worth of data collection
 -Wireless data transfer
+
+|Pinout Diagram|
+|Device Name|Device Pin|ESP32-S3-Super-Mini Pin|
+|-----------|---------|------------------------|
+|Dallas 18B20|DQ|Pin 4|
+|Dallas 18B20|GND|GND|
